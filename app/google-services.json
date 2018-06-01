@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622213854035",
+    "firebase_url": "https://fir-app-6d616.firebaseio.com",
+    "project_id": "fir-app-6d616",
+    "storage_bucket": "fir-app-6d616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622213854035:android:e5532f1bf8b5699d",
+        "android_client_info": {
+          "package_name": "practicacalificada.guevara.pe.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622213854035-prbqgg2ev98ch4t7jbia5t47mrqvhddl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "practicacalificada.guevara.pe.firebaseapp",
+            "certificate_hash": "5a67bfc4c6464fca94186e9f479944139fd95728"
+          }
+        },
+        {
+          "client_id": "622213854035-jbba4c1hho6k0cp517u5i5uu438fitvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMiChpQZPWv3x5fHzSTt9c4mj3e7wbDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622213854035-jbba4c1hho6k0cp517u5i5uu438fitvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
